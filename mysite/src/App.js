@@ -6,7 +6,7 @@ import Portfolio from './components/portfolio';
 import Portfolio2 from './components/portfolio2';
 import Contact from './components/contact';
 import Skills from './components/skills'
-import ScrollableAnchor from 'react-scrollable-anchor';
+
 
 
 
